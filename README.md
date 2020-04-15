@@ -1,6 +1,6 @@
 # Antivirus Co.
 
-Documentation of our future company.
+A company that wants to educate society on health awareness throught the concept of gaming.
 
 ## Company Members
 

@@ -1,6 +1,6 @@
 # Antivirus Co.
 
-A company that wants to educate society on health awareness throught the concept of gaming.
+A company that wants to educate society on health awareness through the concept of gaming.
 
 ## Company Members
 
